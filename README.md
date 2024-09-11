@@ -42,3 +42,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yehaniharshika&show_icons=true&locale=en&layout=compact" alt="yehaniharshika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yehaniharshika&show_icons=true&locale=en" alt="yehaniharshika" /></p>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
