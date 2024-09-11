@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yehani Harshika Pamunuwa</h1>
 <h3 align="center">A passionate Software Engineering student from Sri Lanka</h3>
-
+<img align="center" alt="coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xneGUwem5yZHllMmZlZmVxamdvamd5MWpxNnVvc200c3k2ejJjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehaniharshika&label=Profile%20views&color=0e75b6&style=flat" alt="yehaniharshika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yehaniharshika" alt="yehaniharshika" /></a> </p>
