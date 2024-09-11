@@ -7,10 +7,7 @@
 <div align="center">
   <img align="center" alt="coding" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yehaniharshika&label=Profile%20views&color=0e75b6&style=flat" alt="yehaniharshika" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yehaniharshika" alt="yehaniharshika" /></a> </p>
+<br>
 
 - 🌱 I’m currently learning **Web Development and Back-end Development**
 
@@ -21,7 +18,7 @@
 - 💬 Ask me about **Java,Python,MySQL,HTML,CSS,Bootstrap,JavaScript**
 
 - 📫 How to reach me **pamunuwayehaniharshika@gmail.com**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yehani-harshika-pamunuwa-5b64a1283/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yehani-harshika-pamunuwa-5b64a1283/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
@@ -30,7 +27,7 @@
 <a href="https://dribbble.com/https://dribbble.com/yehani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/yehani" height="30" width="40" /></a>
 <a href="https://medium.com/@pamunuwayehaniharshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pamunuwayehaniharshika" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
 
@@ -43,10 +40,13 @@
 | Software        | <img src="https://skillicons.dev/icons?i=idea,vscode"/>     
 | Other           | <img src="https://skillicons.dev/icons?i=github,git,linux"/>             |
 
+<br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yehaniharshika" alt="yehaniharshika" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yehaniharshika&show_icons=true&locale=en&layout=compact" alt="yehaniharshika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yehaniharshika&show_icons=true&locale=en" alt="yehaniharshika" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yehaniharshika&label=Profile%20views&color=0e75b6&style=flat" alt="yehaniharshika" /> </p>
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
