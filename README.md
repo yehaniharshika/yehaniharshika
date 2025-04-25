@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Web Development and Back-end Development**
 
-- 👨‍💻 All of my projects are available at [https://yehaniharshika.github.io/My-profile/](https://yehaniharshika.github.io/My-profile/)
+- 👨‍💻 All of my projects are available at [https://yehani.netlify.app/](https://yehani.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@pamunuwayehaniharshika](https://medium.com/@pamunuwayehaniharshika)
 
