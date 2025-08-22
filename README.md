@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7EDEF&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Yehani+Harshika+Pamunuwa" alt="Typing SVG" /></a>
-</h1>
+</h1><p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 <h3 align="center" style="font-family: 'Ubuntu', sans-serif; color: darkpink;">A passionate Software Engineering student from Sri Lanka 🩶🖥️👩🏼‍💻</h3>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
